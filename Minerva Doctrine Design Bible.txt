@@ -1,0 +1,43 @@
+Relic Card Game:
+
+Basic Mechanics & Winstate:
+    Commander:
+        Commanders must reach the opposite side of the board for a player to win the game.
+        If a commander loses a battle against a unit, it gets reset to it's starting tile.
+        Commanders start with 3 HP, and lose 1 HP every time they are reset to their starting tile.
+    
+    Units and commanders cannot move on tiles without terrain.  
+    
+    Players can trade resources and terrain tiles.
+    
+
+Resources:
+    Energy (green):
+        Each player gets 2 energy per turn before any other tile gets placed and starts with 6 energy.
+        Unit movement costs 2 energy per tile, or 1 energy per tile containing a road.
+    
+    Ore (red):
+        Allows players to place roads and is used for "early game" cards
+    
+    
+    Research (white):
+        Allows players to play higher powered cards, primarily draw and infiltration cards (similar to MTG's blue)
+
+
+    Alloys:
+        Allows players generate units and play "removal/damage" style cards.
+
+    Scrap:
+        
+    
+Structures:
+    Built on Tile:
+        Lab, Mine, Foundry, Power Plant, 
+    
+Tiles:
+    126 terrain tiles in total.
+    
+    Basic Terrain:
+        Does nothing but allow units to move on them. Can be placed anywhere on the grid.
+        
+        
