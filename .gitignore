@@ -1,3 +1,4 @@
 img/*/*.png
 img/*.png
 __pycache__
+src/temp_pips.png
